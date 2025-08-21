@@ -1,0 +1,19 @@
+export const compatibilityData = {
+    ISTJ: ["ISFJ", "ISTJ", "ESTJ", "ESTP"],
+    ISFJ: ["ISTJ", "ISFJ", "ESFJ", "ESTJ"],
+    INFJ: ["INFJ", "INFP", "ENFJ", "ENFP"],
+    INFP: ["INFJ", "INFP", "ENFJ", "ENFP"],
+    INTJ: ["INTJ", "INTP", "ENTJ", "ENTP"],
+    INTP: ["INTJ", "INTP", "ENTJ", "ENTP"],
+    ISTP: ["ISTP", "ISFP", "ESTP", "ESFP"],
+    ISFP: ["ISTP", "ISFP", "ESTP", "ESFP"],
+    ESTP: ["ISTP", "ISFP", "ESTP", "ESFP"],
+    ESFP: ["ISTP", "ISFP", "ESTP", "ESFP"],
+    ESTJ: ["ISTJ", "ISFJ", "ESTJ", "ENTJ"],
+    ESFJ: ["ISFJ", "ESFJ", "ENFJ", "ESTJ"],
+    ENFJ: ["INFJ", "INFP", "ENFJ", "ENFP"],
+    ENFP: ["INFJ", "INFP", "ENFJ", "ENFP"],
+    ENTJ: ["INTJ", "INTP", "ENTJ", "ENTP"],
+    ENTP: ["INTJ", "INTP", "ENTJ", "ENTP"]
+  };
+  

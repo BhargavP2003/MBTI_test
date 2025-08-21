@@ -1,0 +1,266 @@
+[
+  {
+    "JP": [
+      {
+        "question": "How do you decide on activities?",
+        "optionA": "Careful discussion (J)",
+        "optionB": "Spontaneous desires (P)",
+        "scoreA": "J",
+        "scoreB": "P"
+      }
+    ]
+  },
+  {
+    "JP": [
+      {
+        "question": "How do you make decisions together?",
+        "optionA": "Collaboratively (J)",
+        "optionB": "Spontaneously (P)",
+        "scoreA": "J",
+        "scoreB": "P"
+      }
+    ]
+  },
+  {
+    "JP": [
+      {
+        "question": "What do you prioritize?",
+        "optionA": "Stability (J)",
+        "optionB": "Flexibility (P)",
+        "scoreA": "J",
+        "scoreB": "P"
+      }
+    ]
+  },
+  {
+    "JP": [
+      {
+        "question": "When facing a big decision, do you:",
+        "optionA": "Research thoroughly and plan (J)",
+        "optionB": "Trust your instincts and go with the flow (P)",
+        "scoreA": "J",
+        "scoreB": "P"
+      }
+    ]
+  },
+  {
+    "EI": [
+      {
+        "question": "How do you prefer to spend weekends?",
+        "optionA": "With friends (E)",
+        "optionB": "Alone (I)",
+        "scoreA": "E",
+        "scoreB": "I"
+      }
+    ]
+  },
+  {
+    "EI": [
+      {
+        "question": "How do you behave at social events?",
+        "optionA": "Engage with many (E)",
+        "optionB": "Close friends (I)",
+        "scoreA": "E",
+        "scoreB": "I"
+      }
+    ]
+  },
+  {
+    "EI": [
+      {
+        "question": "Balance between independence and togetherness?",
+        "optionA": "Independence (I)",
+        "optionB": "Togetherness (E)",
+        "scoreA": "I",
+        "scoreB": "E"
+      }
+    ]
+  },
+  {
+    "EI": [
+      {
+        "question": "How do you feel about meeting new people?",
+        "optionA": "Excited and energized (E)",
+        "optionB": "Nervous and drained (I)",
+        "scoreA": "E",
+        "scoreB": "I"
+      }
+    ]
+  },
+  {
+    "TF": [
+      {
+        "question": "How important is verbal communication?",
+        "optionA": "Very important (T)",
+        "optionB": "Non-verbal cues matter (F)",
+        "scoreA": "T",
+        "scoreB": "F"
+      }
+    ]
+  },
+  {
+    "TF": [
+      {
+        "question": "How do you prefer to communicate?",
+        "optionA": "Directly and openly (T)",
+        "optionB": "Subtly (F)",
+        "scoreA": "T",
+        "scoreB": "F"
+      }
+    ]
+  },
+  {
+    "TF": [
+      {
+        "question": "How do you communicate during challenges?",
+        "optionA": "Logical discussion (T)",
+        "optionB": "Empathetic conversation (F)",
+        "scoreA": "T",
+        "scoreB": "F"
+      }
+    ]
+  },
+  {
+    "TF": [
+      {
+        "question": "When expressing feelings, do you:",
+        "optionA": "Speak your mind (T)",
+        "optionB": "Use body language (F)",
+        "scoreA": "T",
+        "scoreB": "F"
+      }
+    ]
+  },
+  {
+    "TF": [
+      {
+        "question": "How do you handle disagreements?",
+        "optionA": "Address issues directly (T)",
+        "optionB": "Empathize (F)",
+        "scoreA": "T",
+        "scoreB": "F"
+      }
+    ]
+  },
+  {
+    "TF": [
+      {
+        "question": "How do you resolve conflicts?",
+        "optionA": "Logical discussion (T)",
+        "optionB": "Emotional support (F)",
+        "scoreA": "T",
+        "scoreB": "F"
+      }
+    ]
+  },
+  {
+    "TF": [
+      {
+        "question": "How do you handle conflicts?",
+        "optionA": "Practical solutions (T)",
+        "optionB": "Emotional connection (F)",
+        "scoreA": "T",
+        "scoreB": "F"
+      }
+    ]
+  },
+  {
+    "TF": [
+      {
+        "question": "In a conflict, do you:",
+        "optionA": "Seek logical resolution (T)",
+        "optionB": "Prioritize emotional harmony (F)",
+        "scoreA": "T",
+        "scoreB": "F"
+      }
+    ]
+  },
+  {
+    "SN": [
+      {
+        "question": "How do you show affection?",
+        "optionA": "Tangible gestures (S)",
+        "optionB": "Verbal affirmations (N)",
+        "scoreA": "S",
+        "scoreB": "N"
+      }
+    ]
+  },
+  {
+    "SN": [
+      {
+        "question": "How do you express love?",
+        "optionA": "Thoughtful actions (S)",
+        "optionB": "Heartfelt words (N)",
+        "scoreA": "S",
+        "scoreB": "N"
+      }
+    ]
+  },
+  {
+    "SN": [
+      {
+        "question": "Preferred way of expressing affection?",
+        "optionA": "Doing things (S)",
+        "optionB": "Saying nice things (N)",
+        "scoreA": "S",
+        "scoreB": "N"
+      }
+    ]
+  },
+  {
+    "SN": [
+      {
+        "question": "Showing love through actions or words?",
+        "optionA": "Actions (S)",
+        "optionB": "Words (N)",
+        "scoreA": "S",
+        "scoreB": "N"
+      }
+    ]
+  },
+  {
+    "SN": [
+      {
+        "question": "How much alone time do you need?",
+        "optionA": "Appreciate own space (S)",
+        "optionB": "Enjoy time with partner (N)",
+        "scoreA": "S",
+        "scoreB": "N"
+      }
+    ]
+  },
+  {
+    "SN": [
+      {
+        "question": "Importance of personal space?",
+        "optionA": "Very important (S)",
+        "optionB": "Somewhat important (N)",
+        "scoreA": "S",
+        "scoreB": "N"
+      }
+    ]
+  },
+  {
+    "SN": [
+      {
+        "question": "Time alone to recharge?",
+        "optionA": "Yes (S)",
+        "optionB": "Occasionally (N)",
+        "scoreA": "S",
+        "scoreB": "N"
+      }
+    ]
+  },
+  {
+    "SN": [
+      {
+        "question": "Time alone vs with partner?",
+        "optionA": "Need personal space (S)",
+        "optionB": "Value independence (N)",
+        "scoreA": "S",
+        "scoreB": "N"
+      }
+    ]
+  }
+]

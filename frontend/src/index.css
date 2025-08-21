@@ -1,0 +1,247 @@
+/* WhatsApp Theme for MBTI Chat */
+body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: 'Segoe UI', 'Roboto', 'Arial', sans-serif;
+  background: #ece5dd;
+}
+
+.mbti-chat-root {
+  min-height: 100vh;
+  min-width: 100vw;
+  width: 100vw;
+  height: 100vh;
+  background: #ece5dd;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  box-sizing: border-box;
+  padding: 0;
+}
+
+.mbti-chat-title {
+  width: 100vw;
+  max-width: 600px;
+  background: linear-gradient(90deg, #075e54 80%, #25d366 100%);
+  color: #fff;
+  text-align: left;
+  margin: 0;
+  padding: 24px 24px 16px 24px;
+  font-size: 1.7rem;
+  font-weight: 600;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  letter-spacing: 0.5px;
+  box-shadow: 0 2px 8px #0002;
+}
+
+/* WhatsApp-like chat background with fallback gradient */
+.mbti-chat-messages {
+  flex: 1 1 auto;
+  width: 100vw;
+  max-width: 600px;
+  background: #efeae2;
+  background-image: repeating-linear-gradient(135deg, #ece5dd 0px, #ece5dd 8px, #efeae2 8px, #efeae2 16px);
+  border-radius: 0 0 12px 12px;
+  padding: 18px 8px 8px 8px;
+  margin-bottom: 0;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 2px 8px #0001;
+}
+
+.mbti-chat-row {
+  display: flex;
+  margin-bottom: 8px;
+}
+.mbti-chat-user {
+  justify-content: flex-end;
+}
+.mbti-chat-bot {
+  justify-content: flex-start;
+}
+.mbti-chat-bubble {
+  background: #dcf8c6;
+  color: #222;
+  border-radius: 18px 18px 4px 18px;
+  padding: 10px 16px;
+  max-width: 75%;
+  font-size: 1rem;
+  box-shadow: 0 1px 2px #0001;
+  word-break: break-word;
+  margin-right: 8px;
+  margin-left: 8px;
+  position: relative;
+}
+.mbti-chat-bot .mbti-chat-bubble {
+  background: #fff;
+  border-radius: 18px 18px 18px 4px;
+}
+
+.mbti-chat-input-row {
+  width: 100vw;
+  max-width: 600px;
+  display: flex;
+  gap: 8px;
+  margin: 0 auto 16px auto;
+  background: #f7f7f7;
+  border-bottom-left-radius: 12px;
+  border-bottom-right-radius: 12px;
+  box-shadow: 0 -1px 4px #0001;
+  padding: 12px 8px;
+}
+.mbti-chat-input {
+  flex: 1;
+  border-radius: 24px;
+  border: 1px solid #ccc;
+  padding: 10px 16px;
+  font-size: 1rem;
+  background: #fff;
+  color: #222;
+  outline: none;
+  transition: border 0.2s;
+  caret-color: #075e54;
+}
+.mbti-chat-input:focus {
+  border: 1.5px solid #25d366;
+}
+.mbti-chat-send {
+  background: #25d366;
+  color: #fff;
+  border: none;
+  border-radius: 24px;
+  padding: 10px 24px;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 1px 2px #0001;
+  transition: background 0.2s;
+}
+.mbti-chat-send:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+.mbti-chat-send:hover:not(:disabled) {
+  background: #128c7e;
+}
+
+.mbti-chat-options-row {
+  width: 100vw;
+  max-width: 600px;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-bottom: 16px;
+}
+.mbti-chat-option {
+  background: #34b7f1;
+  color: #fff;
+  border: none;
+  border-radius: 24px;
+  padding: 10px 24px;
+  font-weight: bold;
+  font-size: 1rem;
+  cursor: pointer;
+  box-shadow: 0 1px 2px #0001;
+  transition: background 0.2s;
+}
+.mbti-chat-option:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+.mbti-chat-option:hover:not(:disabled) {
+  background: #128c7e;
+}
+
+.mbti-chat-result {
+  text-align: center;
+  margin-top: 24px;
+  color: #075e54;
+}
+
+@media (max-width: 700px) {
+  .mbti-chat-messages,
+  .mbti-chat-input-row,
+  .mbti-chat-options-row,
+  .mbti-chat-title {
+    max-width: 100vw;
+    border-radius: 0;
+    padding-left: 8px;
+    padding-right: 8px;
+  }
+  .mbti-chat-root {
+    border-radius: 0;
+    padding: 0;
+  }
+}
+:root {
+  font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: light dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color: #242424;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+a {
+  font-weight: 500;
+  color: #646cff;
+  text-decoration: inherit;
+}
+a:hover {
+  color: #535bf2;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 1px solid transparent;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #1a1a1a;
+  cursor: pointer;
+  transition: border-color 0.25s;
+}
+button:hover {
+  border-color: #646cff;
+}
+button:focus,
+button:focus-visible {
+  outline: 4px auto -webkit-focus-ring-color;
+}
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}

@@ -1,0 +1,336 @@
+[{
+  "_id": {
+    "$oid": "665f519f0f9f4887bd0cd644"
+  },
+  "Decision Making": [
+    {
+      "question": "How do you decide on activities?",
+      "optionA": "Careful discussion (J)",
+      "optionB": "Spontaneous desires (P)",
+      "scoreA": "J",
+      "scoreB": "P"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f51b70f9f4887bd0cd645"
+  },
+  "Decision Making": [
+    {
+      "question": "How do you make decisions together?",
+      "optionA": "Collaboratively (J)",
+      "optionB": "Spontaneously (P)",
+      "scoreA": "J",
+      "scoreB": "P"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f51cb0f9f4887bd0cd646"
+  },
+  "Decision Making": [
+    {
+      "question": "What do you prioritize?",
+      "optionA": "Stability (J)",
+      "optionB": "Flexibility (P)",
+      "scoreA": "J",
+      "scoreB": "P"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f51dd0f9f4887bd0cd647"
+  },
+  "Decision Making": [
+    {
+      "question": "When facing a big decision, do you:",
+      "optionA": "Research thoroughly and plan (J)",
+      "optionB": "Trust your instincts and go with the flow (P)",
+      "scoreA": "J",
+      "scoreB": "P"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f51fc0f9f4887bd0cd648"
+  },
+  "Social Interaction": [
+    {
+      "question": "How do you prefer to spend weekends?",
+      "optionA": "With friends (E)",
+      "optionB": "Alone (I)",
+      "scoreA": "E",
+      "scoreB": "I"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f52120f9f4887bd0cd649"
+  },
+  "Social Interaction": [
+    {
+      "question": "How do you behave at social events?",
+      "optionA": "Engage with many (E)",
+      "optionB": "Close friends (I)",
+      "scoreA": "E",
+      "scoreB": "I"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f52260f9f4887bd0cd64a"
+  },
+  "Social Interaction": [
+    {
+      "question": "Balance between independence and togetherness?",
+      "optionA": "Independence (I)",
+      "optionB": "Togetherness (E)",
+      "scoreA": "I",
+      "scoreB": "E"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f523d0f9f4887bd0cd64b"
+  },
+  "Social Interaction": [
+    {
+      "question": "How do you feel about meeting new people?",
+      "optionA": "Excited and energized (E)",
+      "optionB": "Nervous and drained (I)",
+      "scoreA": "E",
+      "scoreB": "I"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f526e0f9f4887bd0cd64c"
+  },
+  "Communication": [
+    {
+      "question": "How important is verbal communication?",
+      "optionA": "Very important (T)",
+      "optionB": "Non-verbal cues matter (F)",
+      "scoreA": "T",
+      "scoreB": "F"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f52800f9f4887bd0cd64d"
+  },
+  "Communication": [
+    {
+      "question": "How do you prefer to communicate?",
+      "optionA": "Directly and openly (T)",
+      "optionB": "Subtly (F)",
+      "scoreA": "T",
+      "scoreB": "F"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f52970f9f4887bd0cd64e"
+  },
+  "Communication": [
+    {
+      "question": "How do you communicate during challenges?",
+      "optionA": "Logical discussion (T)",
+      "optionB": "Empathetic conversation (F)",
+      "scoreA": "T",
+      "scoreB": "F"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f53700f9f4887bd0cd64f"
+  },
+  "Communication": [
+    {
+      "question": "When expressing feelings, do you:",
+      "optionA": "Speak your mind (T)",
+      "optionB": "Use body language (F)",
+      "scoreA": "T",
+      "scoreB": "F"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f53ac0f9f4887bd0cd650"
+  },
+  "Conflict Resolution": [
+    {
+      "question": "How do you handle disagreements?",
+      "optionA": "Address issues directly (T)",
+      "optionB": "Empathize (F)",
+      "scoreA": "T",
+      "scoreB": "F"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f53bb0f9f4887bd0cd651"
+  },
+  "Conflict Resolution": [
+    {
+      "question": "How do you resolve conflicts?",
+      "optionA": "Logical discussion (T)",
+      "optionB": "Emotional support (F)",
+      "scoreA": "T",
+      "scoreB": "F"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f53c80f9f4887bd0cd652"
+  },
+  "Conflict Resolution": [
+    {
+      "question": "How do you handle conflicts?",
+      "optionA": "Practical solutions (T)",
+      "optionB": "Emotional connection (F)",
+      "scoreA": "T",
+      "scoreB": "F"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f53d80f9f4887bd0cd653"
+  },
+  "Conflict Resolution": [
+    {
+      "question": "In a conflict, do you:",
+      "optionA": "Seek logical resolution (T)",
+      "optionB": "Prioritize emotional harmony (F)",
+      "scoreA": "T",
+      "scoreB": "F"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f54160f9f4887bd0cd654"
+  },
+  "Expression of Affection": [
+    {
+      "question": "How do you show affection?",
+      "optionA": "Tangible gestures (S)",
+      "optionB": "Verbal affirmations (N)",
+      "scoreA": "S",
+      "scoreB": "N"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f54790f9f4887bd0cd655"
+  },
+  "Expression of Affection": [
+    {
+      "question": "How do you express love?",
+      "optionA": "Thoughtful actions (S)",
+      "optionB": "Heartfelt words (N)",
+      "scoreA": "S",
+      "scoreB": "N"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f54830f9f4887bd0cd656"
+  },
+  "Expression of Affection": [
+    {
+      "question": "Preferred way of expressing affection?",
+      "optionA": "Doing things (S)",
+      "optionB": "Saying nice things (N)",
+      "scoreA": "S",
+      "scoreB": "N"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f548f0f9f4887bd0cd657"
+  },
+  "Expression of Affection": [
+    {
+      "question": "Showing love through actions or words?",
+      "optionA": "Actions (S)",
+      "optionB": "Words (N)",
+      "scoreA": "S",
+      "scoreB": "N"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f54980f9f4887bd0cd658"
+  },
+  "Need for Personal Space": [
+    {
+      "question": "How much alone time do you need?",
+      "optionA": "Appreciate own space (S)",
+      "optionB": "Enjoy time with partner (N)",
+      "scoreA": "S",
+      "scoreB": "N"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f54a40f9f4887bd0cd659"
+  },
+  "Need for Personal Space": [
+    {
+      "question": "Importance of personal space?",
+      "optionA": "Very important (S)",
+      "optionB": "Somewhat important (N)",
+      "scoreA": "S",
+      "scoreB": "N"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f54c70f9f4887bd0cd65b"
+  },
+  "Need for Personal Space": [
+    {
+      "question": "Time alone to recharge?",
+      "optionA": "Yes (S)",
+      "optionB": "Occasionally (N)",
+      "scoreA": "S",
+      "scoreB": "N"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "665f54f60f9f4887bd0cd65c"
+  },
+  "Need for Personal Space": [
+    {
+      "question": "Time alone vs with partner?",
+      "optionA": "Need personal space (S)",
+      "optionB": "Value independence (N)",
+      "scoreA": "S",
+      "scoreB": "N"
+    }
+  ]
+}]
